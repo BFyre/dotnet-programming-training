@@ -1,6 +1,6 @@
 namespace RacingThreads
 {
-    public enum RacingThreadsHandlingType
+    public enum RacingThreadsHandling
     {
         None,
         Lock,

@@ -21,13 +21,13 @@ namespace RacingThreads
             switch (Console.ReadKey().Key)
             {
                 case ConsoleKey.D1:
-                    new RacingThreadsTest().Run(RacingThreadsHandlingType.None);
+                    new RacingThreadsExample().Run(RacingThreadsHandling.None);
                     break;
                 case ConsoleKey.D2:
-                    new RacingThreadsTest().Run(RacingThreadsHandlingType.Lock);
+                    new RacingThreadsExample().Run(RacingThreadsHandling.Lock);
                     break;
                 case ConsoleKey.D3:
-                    new RacingThreadsTest().Run(RacingThreadsHandlingType.AutoResetEvents);
+                    new RacingThreadsExample().Run(RacingThreadsHandling.AutoResetEvents);
                     break;
             }
         }

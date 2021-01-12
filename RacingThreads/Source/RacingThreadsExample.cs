@@ -3,7 +3,7 @@ using System.Threading;
 
 namespace RacingThreads
 {
-    public class RacingThreadsTest
+    public class RacingThreadsExample
     {
         private const int ITERATIONS = 10;
         private const int SLEEP_DURATION_MS = 200;
@@ -11,25 +11,25 @@ namespace RacingThreads
         private string _sharedString = "";
         private readonly object _lock = new object();
 
-        public void Run(RacingThreadsHandlingType racingThreadsHandlingType)
+        public void Run(RacingThreadsHandling racingThreadsHandling)
         {
             Thread thread1, thread2;
             
-            switch (racingThreadsHandlingType)
+            switch (racingThreadsHandling)
             {
-                case RacingThreadsHandlingType.None:
+                case RacingThreadsHandling.None:
                     thread1 = new Thread(DisplayThread) {Name = "thread1"};
                     thread2 = new Thread(DisplayThread) {Name = "thread2"};
                     thread1.Start();
                     thread2.Start();
                     break;
-                case RacingThreadsHandlingType.Lock:
+                case RacingThreadsHandling.Lock:
                     thread1 = new Thread(DisplayThreadWithLock) {Name = "thread1"};
                     thread2 = new Thread(DisplayThreadWithLock) {Name = "thread2"};
                     thread1.Start();
                     thread2.Start();
                     break;
-                case RacingThreadsHandlingType.AutoResetEvents:
+                case RacingThreadsHandling.AutoResetEvents:
                     // boolean argument indicates whether the initial state of the event should be set as signaled
                     var thread1LockEvent = new AutoResetEvent(false);
                     var thread2LockEvent = new AutoResetEvent(true);
