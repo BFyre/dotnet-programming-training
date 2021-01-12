@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.Training.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\.idea\.idea.Training\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

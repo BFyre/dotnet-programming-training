@@ -1,0 +1,11 @@
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\obj\Debug\netcoreapp2.2\RacingThreads.csprojAssemblyReference.cache
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\obj\Debug\netcoreapp2.2\RacingThreads.csproj.CoreCompileInputs.cache
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\obj\Debug\netcoreapp2.2\RacingThreads.AssemblyInfoInputs.cache
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\obj\Debug\netcoreapp2.2\RacingThreads.AssemblyInfo.cs
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\bin\Debug\netcoreapp2.2\RacingThreads.deps.json
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\bin\Debug\netcoreapp2.2\RacingThreads.runtimeconfig.json
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\bin\Debug\netcoreapp2.2\RacingThreads.runtimeconfig.dev.json
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\bin\Debug\netcoreapp2.2\RacingThreads.dll
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\bin\Debug\netcoreapp2.2\RacingThreads.pdb
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\obj\Debug\netcoreapp2.2\RacingThreads.dll
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\obj\Debug\netcoreapp2.2\RacingThreads.pdb
