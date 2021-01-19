@@ -1,0 +1,6 @@
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\_META_Helpers\bin\Debug\_META_Helpers.dll
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\_META_Helpers\bin\Debug\_META_Helpers.pdb
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\_META_Helpers\obj\Debug\_META_Helpers.csprojAssemblyReference.cache
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\_META_Helpers\obj\Debug\_META_Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\_META_Helpers\obj\Debug\_META_Helpers.dll
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\_META_Helpers\obj\Debug\_META_Helpers.pdb

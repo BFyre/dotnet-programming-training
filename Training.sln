@@ -1,10 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainConsoleApp", "MainConsoleApp\MainConsoleApp.csproj", "{D33B5CA2-4F3E-4DD0-B761-A1921863B4C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_META_MainConsoleApp", "_META_MainConsoleApp\_META_MainConsoleApp.csproj", "{D33B5CA2-4F3E-4DD0-B761-A1921863B4C9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RacingThreads", "RacingThreads\RacingThreads.csproj", "{2F2B688C-4F62-4287-AF75-E4B89A842693}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadWriteHandler", "ReadWriteHandler\ReadWriteHandler.csproj", "{03CB89CE-885E-40A4-86B7-B3694D7329F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_META_ReadWriteHandler", "_META_ReadWriteHandler\_META_ReadWriteHandler.csproj", "{03CB89CE-885E-40A4-86B7-B3694D7329F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovarianceContravariance", "CovarianceContravariance\CovarianceContravariance.csproj", "{4B7CFF86-897A-44C2-A422-A521C66C268E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_META_Helpers", "_META_Helpers\_META_Helpers.csproj", "{E641E4F9-37AB-43A7-8C57-7BA940D86DDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +28,13 @@ Global
 		{03CB89CE-885E-40A4-86B7-B3694D7329F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03CB89CE-885E-40A4-86B7-B3694D7329F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03CB89CE-885E-40A4-86B7-B3694D7329F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B7CFF86-897A-44C2-A422-A521C66C268E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7CFF86-897A-44C2-A422-A521C66C268E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7CFF86-897A-44C2-A422-A521C66C268E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7CFF86-897A-44C2-A422-A521C66C268E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E641E4F9-37AB-43A7-8C57-7BA940D86DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E641E4F9-37AB-43A7-8C57-7BA940D86DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E641E4F9-37AB-43A7-8C57-7BA940D86DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E641E4F9-37AB-43A7-8C57-7BA940D86DDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\_META_ReadWriteHandler\bin\Debug\_META_ReadWriteHandler.dll
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\_META_ReadWriteHandler\bin\Debug\_META_ReadWriteHandler.pdb
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\_META_ReadWriteHandler\obj\Debug\_META_ReadWriteHandler.csprojAssemblyReference.cache
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\_META_ReadWriteHandler\obj\Debug\_META_ReadWriteHandler.csproj.CoreCompileInputs.cache
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\_META_ReadWriteHandler\obj\Debug\_META_ReadWriteHandler.dll
+C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\_META_ReadWriteHandler\obj\Debug\_META_ReadWriteHandler.pdb
