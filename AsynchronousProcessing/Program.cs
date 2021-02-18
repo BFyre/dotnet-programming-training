@@ -6,13 +6,14 @@ namespace AsynchronousProcessing
 {
     public static class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var gameTurnsController = new GameTurnsController();
             CancellationTokenSource cts = new CancellationTokenSource();
 
             try
             {
+                // Asynchronously wait for input to send cancellation token
                 Task.Run(() =>
                 {
                     Console.ReadKey(true);
