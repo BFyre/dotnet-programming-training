@@ -4,9 +4,7 @@ using _META_Helpers;
 namespace CovarianceContravariance
 {
     /// <summary>
-    /// Contains examples of various implicit conversion behaviors in common circumstances, as well as covariance and contravariance behaviors for generic types.
-    /// It's worth noting that covariance/contravariance for generic types is not the only use case in C#.
-    /// It's also used implicitly (without need for out/in keywords) in arrays and delegates.<br/>
+    /// Contains examples of various implicit conversion behaviors, as well as covariance and contravariance.
     /// https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/covariance-contravariance/
     /// </summary>
     public class CovarianceAndContravariance
@@ -14,7 +12,7 @@ namespace CovarianceContravariance
         private class Fruit { }
 
         private class Apple : Fruit { }
-        
+
         private void PrintInfo(Type expectedType, object arg)
         {
             var expectedTypeName = expectedType.GetFriendlyName();
@@ -28,6 +26,7 @@ namespace CovarianceContravariance
             {
                 info += $"WRONG! Cannot implicitly cast '{argTypeName}' to '{expectedTypeName}'.";
             }
+
             Console.WriteLine(info);
         }
 
@@ -46,7 +45,7 @@ namespace CovarianceContravariance
 
         #endregion
 
-        #region Example 2 - standard interface
+        #region Example 2 - standard generic interface
 
         private interface IStandardSample<T> { }
 
@@ -73,23 +72,26 @@ namespace CovarianceContravariance
             //void Test(T arg); // compiler error 
         }
 
-        private interface IContravariantSample<in T> where T : Fruit // 'in' indicates contravariance
+        private interface IContravariantSample<in T> // 'in' indicates contravariance
         {
             void Test(T arg); // contravariance only accepts generic type as input
             //T Test(); // compiler error 
         }
 
-        private class CovariantSample<T> : ICovariantSample<T> where T : Fruit, new()
+        private class CovariantSample<T> : ICovariantSample<T>
         {
             public T Test()
             {
-                return null;
+                throw new NotImplementedException();
             }
         }
 
-        private class ContravariantSample<T> : IContravariantSample<T> where T : Fruit, new()
+        private class ContravariantSample<T> : IContravariantSample<T>
         {
-            public void Test(T arg) { }
+            public void Test(T arg)
+            {
+                throw new NotImplementedException();
+            }
         }
 
         public void Test3()
