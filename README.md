@@ -4,3 +4,4 @@ This solution includes various projects for trying out C# features and problem s
 Current subjects:
 - Thread racing
 - Covariance/Contravariance
+- Asynchronous processing
