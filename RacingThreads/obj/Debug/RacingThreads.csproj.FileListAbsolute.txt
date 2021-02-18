@@ -1,9 +1,0 @@
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\bin\Debug\RacingThreads.dll
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\bin\Debug\RacingThreads.pdb
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\obj\Debug\RacingThreads.csprojAssemblyReference.cache
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\obj\Debug\RacingThreads.csproj.CoreCompileInputs.cache
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\obj\Debug\RacingThreads.csproj.CopyComplete
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\obj\Debug\RacingThreads.dll
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\obj\Debug\RacingThreads.pdb
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\bin\Debug\_META_ReadWriteHandler.dll
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\RacingThreads\bin\Debug\_META_ReadWriteHandler.pdb

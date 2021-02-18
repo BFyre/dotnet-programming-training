@@ -1,6 +1,0 @@
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\AsynchronousProcessing\bin\Debug\AsynchronousProcessing.exe
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\AsynchronousProcessing\bin\Debug\AsynchronousProcessing.pdb
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\AsynchronousProcessing\obj\Debug\AsynchronousProcessing.csprojAssemblyReference.cache
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\AsynchronousProcessing\obj\Debug\AsynchronousProcessing.csproj.CoreCompileInputs.cache
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\AsynchronousProcessing\obj\Debug\AsynchronousProcessing.exe
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\AsynchronousProcessing\obj\Debug\AsynchronousProcessing.pdb

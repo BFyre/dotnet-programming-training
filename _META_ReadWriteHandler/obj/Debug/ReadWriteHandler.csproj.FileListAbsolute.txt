@@ -1,6 +1,0 @@
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\ReadWriteHandler\bin\Debug\ReadWriteHandler.dll
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\ReadWriteHandler\bin\Debug\ReadWriteHandler.pdb
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\ReadWriteHandler\obj\Debug\ReadWriteHandler.csprojAssemblyReference.cache
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\ReadWriteHandler\obj\Debug\ReadWriteHandler.csproj.CoreCompileInputs.cache
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\ReadWriteHandler\obj\Debug\ReadWriteHandler.dll
-C:\Users\Blackfyre\RiderProjects\BFyreExercises\Training\ReadWriteHandler\obj\Debug\ReadWriteHandler.pdb
